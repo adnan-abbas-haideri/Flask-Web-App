@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fdfd96; /* Light Yellow */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    font-size: 3rem;
+}
+
